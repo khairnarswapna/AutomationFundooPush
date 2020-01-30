@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fundoopush.tests.FundooLoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-30T11:45:52" hostname="admin1-desktop" time="12.452">
+  <properties/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[0](usahu998@gmail.com, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="12.452"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 30823
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jan 30, 2020 5:15:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
